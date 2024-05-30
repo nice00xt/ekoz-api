@@ -3,7 +3,7 @@
     {
       "id": "0",
       "title": "Eterland",
-      "image": "PlayerImg",
+      "image": "https://ekoz.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmaxresdefault.28f41436.jpg&w=3840&q=75",
       "playList": [
         {
           "url": "https://www.youtube.com/watch?v=kEcgDgEb4qE",
@@ -54,7 +54,7 @@
     {
       "id": "1",
       "title": "Julius Brown and the Golden Skull",
-      "image": "JuliusImg",
+      "image": "https://ekoz.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjulius.4262157d.png&w=3840&q=75",
       "playList": [
         {
           "url": "https://www.youtube.com/watch?v=oOzo2Lm4fsE",
